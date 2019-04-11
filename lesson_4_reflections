@@ -32,4 +32,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to make changes if you have a differnt version you are working with.
+	Benefits allow you to make smaller changes that won't affect the whole thing 
+	until you know its working. Although then you will have to update later.
